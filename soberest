@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports Op3" tvg-logo="http://51.222.43.170:36995/images/509a418e24de822fa42d205f7f92a46d.png" group-title="DEPORTES",CO | Win Sports Op3
+http://51.222.43.170:36995/7cbT7ahqZVXf/PMXubKzQDxeu/1265
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports Op1" tvg-logo="http://51.222.43.170:36995/images/509a418e24de822fa42d205f7f92a46d.png" group-title="COLOMBIA",CO | Win Sports Op1
+http://51.222.43.170:36995/7cbT7ahqZVXf/PMXubKzQDxeu/426
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports Op2" tvg-logo="http://51.222.43.170:36995/images/509a418e24de822fa42d205f7f92a46d.png" group-title="COLOMBIA",CO | Win Sports Op2
+http://51.222.43.170:36995/7cbT7ahqZVXf/PMXubKzQDxeu/427
